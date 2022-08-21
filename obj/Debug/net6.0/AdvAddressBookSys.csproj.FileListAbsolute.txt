@@ -1,0 +1,5 @@
+C:\Data\AdvAddressBookSys\AdvAddressBookSys\obj\Debug\net6.0\AdvAddressBookSys.csproj.AssemblyReference.cache
+C:\Data\AdvAddressBookSys\AdvAddressBookSys\obj\Debug\net6.0\AdvAddressBookSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\AdvAddressBookSys\AdvAddressBookSys\obj\Debug\net6.0\AdvAddressBookSys.AssemblyInfoInputs.cache
+C:\Data\AdvAddressBookSys\AdvAddressBookSys\obj\Debug\net6.0\AdvAddressBookSys.AssemblyInfo.cs
+C:\Data\AdvAddressBookSys\AdvAddressBookSys\obj\Debug\net6.0\AdvAddressBookSys.csproj.CoreCompileInputs.cache
